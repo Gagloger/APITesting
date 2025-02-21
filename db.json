@@ -21,32 +21,32 @@
     {
       "id":1,
       "name": "Sword",
-      "damage": 10
+      "description": "10 damage"
     },
     {
       "id":2,
       "name": "Shield",
-      "defense": 10
+      "description": "10 defense"
     },
     {
       "id":3,
       "name": "Potion",
-      "heal": 10
+      "description": "10 heal"
     },
     {
       "id":4,
       "name": "Axe",
-      "damage": 20
+      "description": "30 damage"
     },
     {
       "id":5,
       "name": "Bow",
-      "damage": 15
+      "description": "15 damage"
     },
     {
       "id":6,
       "name": "Arrow",
-      "damage": 5
+      "description": "5 damage"
     }
   ]
 }
