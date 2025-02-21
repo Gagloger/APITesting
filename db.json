@@ -1,19 +1,14 @@
 {
-  "users": [
-    {
-      "id":1,
-      "username": "Gagloger",
-      "inventario": [1,2,3,4,5]
-    },
-    {
-      "id":2,
-      "username": "Gloger",
-      "inventario": [34,14,11,7,77]
-    },
-    {
-      "id":13,
-      "username": "Jacobo",
-      "inventario": [50,51,52,53,54]
-    },
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
