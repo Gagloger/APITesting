@@ -8,12 +8,45 @@
     {
       "id":2,
       "username": "Gloger",
-      "inventory": [34,14,11,7,77]
+      "inventory": [5,6,6,6,6]
     },
     {
       "id":3,
       "username": "Jacobo",
-      "inventory": [50,51,52,53,54]
+      "inventory": [1,2,3]
+    }
+  ],
+
+  "inventory":[
+    {
+      "id":1,
+      "name": "Sword",
+      "damage": 10
+    },
+    {
+      "id":2,
+      "name": "Shield",
+      "defense": 10
+    },
+    {
+      "id":3,
+      "name": "Potion",
+      "heal": 10
+    },
+    {
+      "id":4,
+      "name": "Axe",
+      "damage": 20
+    },
+    {
+      "id":5,
+      "name": "Bow",
+      "damage": 15
+    },
+    {
+      "id":6,
+      "name": "Arrow",
+      "damage": 5
     }
   ]
 }
